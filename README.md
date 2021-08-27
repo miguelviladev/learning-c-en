@@ -17,7 +17,7 @@ Happy coding! 🚀💻
    - Reasons learn C
    - How to structure a program
    - The programming process
-2. C Environment Setup
+2. Environment setup for C
    - Installation on Linux
    - Installation on Windows
    - ~~Installation on Mac OS~~ I'm poor, sorry :(
