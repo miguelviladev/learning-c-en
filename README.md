@@ -14,7 +14,7 @@ Happy coding! 🚀
 
 1. Introduction
    - History of C
-   - Reasons learn C
+   - Reasons to learn C
    - How to structure a program
    - The programming process
 2. Environment setup for C
