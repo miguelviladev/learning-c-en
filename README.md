@@ -21,6 +21,7 @@ Happy coding! 🚀
    - Installation on Linux 🐧
    - Installation on Windows 💻
    - _~~Installation on Mac OS~~_ 🍎 _I'm poor, sorry :(_
+   - Using the web browser
 3. The anatomy of a C program
    - A simple example
    - How to compile and execute a program
