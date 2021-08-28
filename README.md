@@ -13,20 +13,20 @@ Happy coding! 🚀
 # Table of Contents
 
 1. Introduction
-   - History of C
-   - Reasons to learn C
-   - How to structure a program
-   - The programming process
+   - [History of C](1-introduction/1-history-of-c.md)
+   - [Reasons to learn C](1-introduction/2-reasons-to-learn-c.md)
+   - [How to structure a program](1-introduction/3-how-to-structure-a-program.md)
+   - [The programming process](1-introduction/4-the-programming-process.md)
 2. Environment setup for C
-   - Installation on Linux 🐧
-   - Installation on Windows 💻
-   - _~~Installation on Mac OS~~_ 🍎 _I'm poor, sorry :(_
-   - Using the web browser
+   - [Installation on Linux 🐧](2-environment-setup-for-c/1-installation-on-linux.md)
+   - [Installation on Windows 💻](2-environment-setup-for-c/2-installation-on-windows.md)
+   - [_~~Installation on Mac OS~~_ 🍎](2-environment-setup-for-c/3-installation-on-mac-os.md) _I'm poor, sorry :(_
+   - [Using the web browser](2-environment-setup-for-c/4-using-the-web-browser.md)
 3. The anatomy of a C program
-   - A simple example
-   - How to compile and execute a program
-   - Solved exercises
-   - Recommended exercises
+   - [A simple example](3-the-anatomy-of-a-c-program/1-a-simple-example.md)
+   - [How to compile and execute a program](3-the-anatomy-of-a-c-program/2-how-to-compile-and-execute-a-program.md)
+   - [Solved exercises](3-the-anatomy-of-a-c-program/3-solved-exercises.md)
+   - [Recommended exercises](3-the-anatomy-of-a-c-program/4-recommended-exercises.md)
 
 # LICENSE
 
