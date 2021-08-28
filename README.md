@@ -8,7 +8,7 @@ Non the less, you will learn tips and tricks commonly used amongst programmers. 
 
 Consider following me on [Twitter](https://twitter.com/miguel_oviladev) or [Instagram](https://www.instagram.com/miguel_oviladev/) for further insights and updates. Also, you should know that this project was not sponsored by a company, so I only rely on [donations](https://www.paypal.com/paypalme/maomv).
 
-Happy coding! 🚀💻
+Happy coding! 🚀
 
 # Table of Contents
 
@@ -18,9 +18,9 @@ Happy coding! 🚀💻
    - How to structure a program
    - The programming process
 2. Environment setup for C
-   - Installation on Linux
-   - Installation on Windows
-   - ~~Installation on Mac OS~~ I'm poor, sorry :(
+   - Installation on Linux 🐧
+   - Installation on Windows 💻
+   - _~~Installation on Mac OS~~_ 🍎 _I'm poor, sorry :(_
 3. The anatomy of a C program
 
 # LICENSE
