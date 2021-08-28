@@ -22,6 +22,10 @@ Happy coding! 🚀
    - Installation on Windows 💻
    - _~~Installation on Mac OS~~_ 🍎 _I'm poor, sorry :(_
 3. The anatomy of a C program
+   - A simple example
+   - How to compile and execute a program
+   - Solved exercises
+   - Recommended exercises
 
 # LICENSE
 
