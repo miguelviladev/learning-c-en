@@ -11,6 +11,6 @@ In other words: **C runs the world**.
 <br><br>
 [[⬅️ BACK]](../README.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[[📋 TABLE OF CONTENS]](../README.md)
+[[📋 TABLE OF CONTENTS]](../README.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[NEXT ➡️]](2-reasons-to-learn-c.md)

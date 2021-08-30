@@ -27,6 +27,6 @@ Thanks to ANSI, who standardized C, code written in a machine can be ported into
 <br><br>
 [[⬅️ BACK]](1-history-of-c.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[[📋 TABLE OF CONTENS]](../README.md)
+[[📋 TABLE OF CONTENTS]](../README.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[NEXT ➡️]](3-how-to-structure-a-program.md)
