@@ -16,7 +16,7 @@ Happy coding! 🚀
    - [History of C](1-introduction/1-history-of-c.md)
    - [Reasons to learn C](1-introduction/2-reasons-to-learn-c.md)
    - [How to structure a program](1-introduction/3-how-to-structure-a-program.md)
-   - [Software development cycle](1-introduction/4-software-development-cycle.md)
+   - [Compilation cycle in C](1-introduction/4-compilation-cycle-in-c.md)
 2. Environment setup for C
    - [Installation on Linux 🐧](2-environment-setup-for-c/1-installation-on-linux.md)
    - [Installation on Windows 💻](2-environment-setup-for-c/2-installation-on-windows.md)
