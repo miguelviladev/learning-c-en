@@ -1,4 +1,4 @@
-# How to structure a C program
+# How to structure a program
 
 Created in 1972 to develop the UNIX operating system, C inherited UNIX's philosophy, like being case sensitive.
 
