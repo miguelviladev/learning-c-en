@@ -1,4 +1,4 @@
-# Software development cycle
+# Compilation cycle in C
 
 <br><br>
 [[⬅️ BACK]](3-how-to-structure-a-program.md)
