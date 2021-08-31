@@ -4,7 +4,7 @@ Even if you are a complete beginner in programming, you can learn C quickly from
 
 I won’t try to cover everything related to C. Instead, I will focus only on the core concepts of the language while trying to simplify them.
 
-Non the less, you will learn tips and tricks commonly used amongst programmers. Appart from that, you will test your knowledge at the end of each topic by performing some exercises.
+Non the less, you will learn tips and tricks commonly used amongst programmers. Apart from that, you will test your knowledge at the end of each topic by performing some exercises.
 
 Consider following me on [Twitter](https://twitter.com/miguel_oviladev) or [Instagram](https://www.instagram.com/miguel_oviladev/) for further insights and updates. Also, you should know that this project was not sponsored by a company, so I only rely on [donations](https://www.paypal.com/paypalme/maomv).
 
