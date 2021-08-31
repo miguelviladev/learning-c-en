@@ -17,7 +17,7 @@ For example, this management system consists of 3 modules: Customers, Stock, and
 Despite all the warnings about spaghetti code, many developers neglect it, which causes their projects to fail over time. In the end, organizing a programming project requires a lot of planning, but it will be rewarding!
 
 <br><br>
-[[⬅️ BACK]](3-how-to-structure-a-program.md)
+[[⬅️ BACK]](2-reasons-to-learn-c.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[📋 TABLE OF CONTENTS]](../README.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
