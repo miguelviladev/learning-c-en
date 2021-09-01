@@ -10,7 +10,7 @@ Approaching problems this way is great! We all know from experience that when a 
 
 When creating a computer program it should consist of a group of modules. These must be independent one from another. Each module should have its functions that perform only one task. This way, it will be easier to maintain the software and develop new features.
 
-![Drag ](../0-resources/software-structure.png)
+![](../0-resources/software-structure.png)
 
 For example, this management system consists of 3 modules: Customers, Stock, and Invoices. As each module has its functions: Create Customer, Delete Product, Print Invoice, etc. Dividing a project into modules will help you avoid creating what we call "spaghetti code", which is hard to maintain (trust me, I've been there).
 
