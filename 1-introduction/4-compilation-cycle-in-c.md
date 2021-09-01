@@ -19,6 +19,13 @@ The compilation process can be divided into four sub-processes: pre-processing, 
 
 ### 1. Pre-processing
 
+The source code is written in a text editor such as Visual Studio Code and is given the extension ".c". After that, the code is passed to the pre-processor, a text substitution tool that instructs the compiler to do the required pre-processing before compiling.
+<br><br>
+
+> All pre-processor commands begin with a hash symbol (_#_).
+
+In the example above, the `include` directive tells the pre-processor to include the `stdio.h` library from System Libraries into the current source code file.
+
 ### 2. Compiling
 
 ### 3. Assembling
