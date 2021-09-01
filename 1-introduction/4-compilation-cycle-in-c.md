@@ -2,7 +2,7 @@
 
 As you probably know, a computer only understands 1's and 0's, but when writing C code you use symbols, characters, numbers. Take a look at this code example:
 
-```
+```c
 #include <stdio.h>
 
 int main(){
