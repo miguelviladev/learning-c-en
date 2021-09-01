@@ -23,8 +23,8 @@ The source code is written in a text editor such as Visual Studio Code and is gi
 <br><br>
 
 > All pre-processor commands begin with a hash symbol (_#_).
-
-In the example above, the `include` directive tells the pre-processor to include the `stdio.h` library from System Libraries into the current source code file.
+>
+> In the example above, the `include` directive tells the pre-processor to include the `stdio.h` library from System Libraries into the current source code file.
 
 ### 2. Compiling
 
