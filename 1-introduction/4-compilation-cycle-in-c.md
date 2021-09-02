@@ -32,7 +32,13 @@ Once pre-processed, the compiler checks if the code was well written, that is, i
 
 The compiler also detects cases in where the code's syntax is correct but leads to some suspicion. So, instead of outputting an error message, the compiler outputs a warning message for each suspicious piece of code. Unlike errors, if warning messages show up the compilation process will continue.
 
+So, when the code is free from errors, the compiler converts the pre-processed code into assembly code.
+
 ### 3. Assembling
+
+Now, the assembler will convert the assembly code into object code and save it in a file with the same name of the source file but with the extension **.obj** in DOS-based systems or **.o** in UNIX-based systems.
+
+> If the name source file is named "hello-world.c', then the object file would be 'hello.obj'.
 
 ### 4. Linking
 
