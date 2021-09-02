@@ -42,6 +42,8 @@ Now, the assembler will convert the assembly code into object code and save it i
 
 ### 4. Linking
 
+The linker is a utility that links the various object files and library files creating the executable file. The executable file is named as the source file but differs only in its extension: in DOS, the extension of the executable file is **.exe**, and in UNIX it is **.out**.
+
 <br><br>
 [[⬅️ BACK]](3-how-to-structure-a-program.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
