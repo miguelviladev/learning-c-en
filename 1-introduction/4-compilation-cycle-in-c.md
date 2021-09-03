@@ -46,7 +46,7 @@ The linker is a utility that links the various object files and library files, c
 
 ## Example
 
-## Summary of compilation cycle
+## Summary
 
 The compilation process can be divided into four sub-processes: pre-processing, compiling, assembling, and linking. The basic process for compiling a C program is:
 
