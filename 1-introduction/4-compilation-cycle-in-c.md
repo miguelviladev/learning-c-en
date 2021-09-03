@@ -44,6 +44,16 @@ Now, the assembler will convert the assembly code into object code and save it i
 
 The linker is a utility that links the various object files and library files, creating the executable file. The executable file has the same name as the source file but differs only in its extension: in DOS, the extension of the executable file is .exe, and in UNIX, it is .out.
 
+## Example
+
+## Summary of compilation cycle
+
+So the basic process for compiling a C program is:
+
+- The pre-processor utility generates the C source to be compiled;
+- The compiler compiles the C source into object code generating a set of object files;
+- The linker links the various object files along with the required libraries, creating an executable file.
+
 <br><br>
 [[⬅️ BACK]](3-how-to-structure-a-program.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
