@@ -46,6 +46,19 @@ The linker is a utility that links the various object files and library files, c
 
 ## Example
 
+```c
+#include <stdio.h>
+
+int main(){
+    printf("Hello C Language");
+    return 0;
+}
+```
+
+Lets consider that this sample source code above was saved in a file called 'hello-lang.c'. That is what would happen if we would compile this source code:
+
+![](../0-resources/compilation-example.png)
+
 ## Summary
 
 The compilation process can be divided into four sub-processes: pre-processing, compiling, assembling, and linking. The basic process for compiling a C program is:
