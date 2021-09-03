@@ -6,7 +6,7 @@ Other than that, UNIX had a wide range of commands and each one did only one tas
 
 Approaching problems this way is great! We all know from experience that when a complex problem rises, it is easier to break it apart into smaller and easy-to-solve problems.
 
-## An example
+## Example
 
 When creating a computer program it should consist of a group of modules. These must be independent one from another. Each module should have its functions that perform only one task. This way, it will be easier to maintain the software and develop new features.
 
