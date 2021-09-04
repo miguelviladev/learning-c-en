@@ -72,4 +72,4 @@ The compilation process can be divided into four sub-processes: pre-processing, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[📋 TABLE OF CONTENTS]](../README.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[[NEXT ➡️]](../2-environment-setup-for-c/1-installation-on-linux.md)
+[[NEXT ➡️]](../2-environment-setup-for-c/1-the-environment.md)

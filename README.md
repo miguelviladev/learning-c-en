@@ -18,10 +18,11 @@ Happy coding! 🚀
    - [How to structure a program](1-introduction/3-how-to-structure-a-program.md)
    - [Compilation cycle in C](1-introduction/4-compilation-cycle-in-c.md)
 2. Environment setup for C
-   - [Installation on Linux 🐧](2-environment-setup-for-c/1-installation-on-linux.md)
-   - [Installation on Windows 💻](2-environment-setup-for-c/2-installation-on-windows.md)
-   - [_~~Installation on Mac OS~~_ 🍎](2-environment-setup-for-c/3-installation-on-mac-os.md) _I'm poor, sorry :(_
-   - [Using the web browser](2-environment-setup-for-c/4-using-the-web-browser.md)
+   - [The environment](2-environment-setup-for-c/1-the-environment.md)
+   - [Installation on Linux 🐧](2-environment-setup-for-c/2-installation-on-linux.md)
+   - [Installation on Windows 💻](2-environment-setup-for-c/3-installation-on-windows.md)
+   - [_~~Installation on Mac OS~~_ 🍎](2-environment-setup-for-c/4-installation-on-mac-os.md) _I'm poor, sorry :(_
+   - [Using the web browser](2-environment-setup-for-c/5-using-the-web-browser.md)
 3. The anatomy of a C program
    - [A simple example](3-the-anatomy-of-a-c-program/1-a-simple-example.md)
    - [How to compile and execute a program](3-the-anatomy-of-a-c-program/2-how-to-compile-and-execute-a-program.md)
