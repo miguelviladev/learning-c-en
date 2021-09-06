@@ -61,7 +61,7 @@ Lets consider that this sample source code above was saved in a file called 'hel
 
 ## Summary
 
-The compilation process can be divided into four sub-processes: pre-processing, compiling, assembling, and linking. The basic process for compiling a C program is:
+We can divide the compilation process into four sub-processes: pre-processing, compiling, assembling, and linking. The basic process for compiling a C program is:
 
 - The pre-processor utility generates the C source to be compiled;
 - The compiler compiles the C source into object code generating a set of object files;
