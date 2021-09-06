@@ -11,7 +11,7 @@ int main(){
 }
 ```
 
-You can tell that this algorithm is written with English words, but our computer is incapable of understanding them. To execute the algorithm we need to convert this source code into binary code. That process is called **compilation**.
+You can tell that this algorithm is written in English words, but our computer is incapable of understanding them. To execute the algorithm, we need to convert this source code into binary code. That process is called **compilation**.
 
 ![](../0-resources/compilation-simple.png)
 
