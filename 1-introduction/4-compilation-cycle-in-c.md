@@ -28,7 +28,7 @@ The source code is written in a text editor such as Visual Studio Code and is gi
 
 ### 2. Compiling
 
-Once pre-processed, the compiler checks if the code was well written, that is, if the instructions respect the language's syntax. If the compiler detects an error, the compilation process terminates, informing the programmer where that error is. The programmer needs to edit the source code to solve the error and re-compile the code.
+Once pre-processed, the compiler checks if the code was well written, that is, if the instructions respect the language's syntax. If the compiler detects an error, the compilation process ends, informing the programmer where that error is. The programmer needs to edit the source code to solve the error and re-compile the code.
 
 The compiler also detects cases in where the code's syntax is correct but leads to some suspicion. So, instead of outputting an error message, the compiler outputs a warning message for each suspicious piece of code. Unlike errors, if warning messages show up the compilation process will continue.
 
