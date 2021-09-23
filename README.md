@@ -6,7 +6,7 @@ I won’t try to cover everything related to C. Instead, I will focus only on th
 
 Non the less, you will learn tips and tricks commonly used amongst programmers. Apart from that, you will test your knowledge at the end of each topic by performing some exercises.
 
-Consider following me on [Twitter](https://twitter.com/miguel_oviladev) or [Instagram](https://www.instagram.com/miguel_oviladev/) for further insights and updates. Also, you should know that this project was not sponsored by a company, so I only rely on [donations](https://www.paypal.com/paypalme/maomv).
+Consider following me on [Twitter](https://twitter.com/miguelviladev) or [Instagram](https://www.instagram.com/miguelviladev/) for further insights and updates. Also, you should know that this project was not sponsored by a company, so I only rely on [donations](https://www.paypal.com/paypalme/maomv).
 
 Happy coding! 🚀
 
@@ -32,4 +32,4 @@ Happy coding! 🚀
 
 # LICENSE
 
-[Learning C](https://github.com/migueloviladev/learning-c-en) by [Miguel Vila](https://github.com/migueloviladev) is licensed under [CC BY-NC 4.0](LICENSE.txt)
+[Learning C](https://github.com/miguelviladev/learning-c-en) by [Miguel Vila](https://github.com/miguelviladev) is licensed under [CC BY-NC 4.0](LICENSE.txt)
