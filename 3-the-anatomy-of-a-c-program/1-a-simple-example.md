@@ -12,9 +12,7 @@ Computer software consists of a group of ordered instructions and functions exec
 
 It is the first function executed by default. Other instructions that we want to be executed must be written inside **{}** creating, what we call, a code block.
 
-Please note, because **main** is a function, we must open and close parenthesis. All functions in C are written this way.
-
-Also, remember that C is a case-sensitive language. This means that writing "**Main()**" instead of "**main()**" would result in a compilation error.
+Please note, because **main** is a function, we must open and close parenthesis. All functions in C are written this way. Also, remember that C is a case-sensitive language. This means that writing "**Main()**" instead of "**main()**" would result in a compilation error.
 
 ### 2. Adding functionality
 
