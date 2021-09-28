@@ -2,9 +2,7 @@
 
 ### 1. The main() function
 
-Computer software consists of a group of ordered instructions executed to solve a particular problem.
-
-When it comes to the C language, there is a function called **main()**, and all programs must have it.
+Computer software consists of a group of ordered instructions and functions executed to solve a particular problem. When it comes to the C language, there is a function called **main()**, and all programs must have it.
 
 ```c
 1:  main(){
